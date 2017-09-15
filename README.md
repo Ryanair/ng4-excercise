@@ -26,3 +26,10 @@ Before running the tests make sure you are serving the app via `ng serve`.
 ## Further help
 
 To get more help on the Angular CLI use `ng help` or go check out the [Angular CLI README](https://github.com/angular/angular-cli/blob/master/README.md).
+
+
+## Challenge
+Build an angular app by using `ngrx` as your state manager. [ngrx](https://github.com/ngrx/platform)
+Consume the following [apis](https://jsonplaceholder.typicode.com/) `/posts` and `/comments`
+Display the posts when you load the app
+Posts are clickable and show the comments on click
